@@ -30,9 +30,9 @@ const nums = {};
   }
   return [];
 
- Method 2:
+// Method 2:
 
- By Two num:
+// By Two num:
 
 for (let i=0; i< array.length; i++) {
     const num1 = array [i];
@@ -44,5 +44,7 @@ for (let i=0; i< array.length; i++) {
     }
   }
   return [];
+
+
 
 
